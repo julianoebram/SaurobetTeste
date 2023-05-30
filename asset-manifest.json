@@ -1,15 +1,19 @@
 {
   "files": {
-    "main.css": "/SaurobetTeste/static/css/main.5ed710dc.css",
-    "main.js": "/SaurobetTeste/static/js/main.b8ceffd0.js",
+    "main.css": "/SaurobetTeste/static/css/main.4915fb38.css",
+    "main.js": "/SaurobetTeste/static/js/main.629b0d12.js",
     "static/js/787.191f97db.chunk.js": "/SaurobetTeste/static/js/787.191f97db.chunk.js",
+    "static/media/rectangle-15449@2x.png": "/SaurobetTeste/static/media/rectangle-15449@2x.ce87beb2ab2fb698b3f5.png",
+    "static/media/rectangle-1544@2x.png": "/SaurobetTeste/static/media/rectangle-1544@2x.7d9be23b378c6d03e9b4.png",
+    "static/media/rectangle-15445@2x.png": "/SaurobetTeste/static/media/rectangle-15445@2x.78f2f2893607951f813d.png",
+    "static/media/rectangle-15444@2x.png": "/SaurobetTeste/static/media/rectangle-15444@2x.f07c19fc3b945308895b.png",
     "index.html": "/SaurobetTeste/index.html",
-    "main.5ed710dc.css.map": "/SaurobetTeste/static/css/main.5ed710dc.css.map",
-    "main.b8ceffd0.js.map": "/SaurobetTeste/static/js/main.b8ceffd0.js.map",
+    "main.4915fb38.css.map": "/SaurobetTeste/static/css/main.4915fb38.css.map",
+    "main.629b0d12.js.map": "/SaurobetTeste/static/js/main.629b0d12.js.map",
     "787.191f97db.chunk.js.map": "/SaurobetTeste/static/js/787.191f97db.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.5ed710dc.css",
-    "static/js/main.b8ceffd0.js"
+    "static/css/main.4915fb38.css",
+    "static/js/main.629b0d12.js"
   ]
 }
