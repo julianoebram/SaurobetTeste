@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/SaurobetTeste/static/css/main.5ed710dc.css",
+    "main.js": "/SaurobetTeste/static/js/main.b8ceffd0.js",
+    "static/js/787.191f97db.chunk.js": "/SaurobetTeste/static/js/787.191f97db.chunk.js",
+    "index.html": "/SaurobetTeste/index.html",
+    "main.5ed710dc.css.map": "/SaurobetTeste/static/css/main.5ed710dc.css.map",
+    "main.b8ceffd0.js.map": "/SaurobetTeste/static/js/main.b8ceffd0.js.map",
+    "787.191f97db.chunk.js.map": "/SaurobetTeste/static/js/787.191f97db.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5ed710dc.css",
+    "static/js/main.b8ceffd0.js"
+  ]
+}
